@@ -1,0 +1,12 @@
+
+
+supercritical A  =  0.300000002061154 ## Variation parameter
+
+## inner horizon
+IH.i =  230  ## ?  IH.r =  0.00364568038616325 ## radius
+IH.ep =  3.64568038616325e-05   IH.em =  3.6095845407557e-05
+
+
+Outter horizon
+OH.i =  235   OH.r =  0.00383164672531003
+OH.ep =  3.83164672531003e-05   OH.em =  3.79370962901983e-05
